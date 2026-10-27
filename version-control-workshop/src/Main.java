@@ -8,7 +8,7 @@ public class Main {
         // Spacer A
         // Spacer B
         // Spacer C
-
+        
         // GREETING_SLOT_02
         // --- leave this separator unchanged ---
         // Spacing keeps independent edits easier to merge.
@@ -22,7 +22,7 @@ public class Main {
         // Spacer A
         // Spacer B
         // Spacer C
-
+        System.out.println("Ouloi mpenoun mesto barbershop");
         // GREETING_SLOT_04
         // --- leave this separator unchanged ---
         // Spacing keeps independent edits easier to merge.
