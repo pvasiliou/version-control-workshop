@@ -8,14 +8,14 @@ public class Main {
         // Spacer A
         // Spacer B
         // Spacer C
-
+        
         // GREETING_SLOT_02
         // --- leave this separator unchanged ---
         // Spacing keeps independent edits easier to merge.
         // Spacer A
         // Spacer B
         // Spacer C
-
+        System.out.println("Marias XMPL");
         // GREETING_SLOT_03
         // --- leave this separator unchanged ---
         // Spacing keeps independent edits easier to merge.
