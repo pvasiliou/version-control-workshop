@@ -8,6 +8,7 @@ public class Main {
         // Spacer A
         // Spacer B
         // Spacer C
+        System.out.println("Hello from Athina!");
 
         // GREETING_SLOT_02
         // --- leave this separator unchanged ---
